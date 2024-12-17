@@ -26,7 +26,7 @@ subnav:
 
 Laws, executive policies, regulations, and government standards drive multiple federal initiatives related to Federal Identity, Credential and Access Management. IATAD maintains this policy matrix to map delegations and authorities. ICAM Partners can use this matrix to understand the origins and ultimate authority of ICAM initiatives.
 
-
+Use the legend below in conjuction with the FICAM policy map to navigate to your desired information. 
   <style>
       /* needed to remove underline in links - do not remove */    
       a {
@@ -129,9 +129,9 @@ Laws, executive policies, regulations, and government standards drive multiple f
 
 ## Policy Overview
 
-The FICAM policy map below presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
+The FICAM policy map presents a visual overview of the laws, policies and standards relevant to FICAM. The documents are organized according to the government body that produced it, and the relationships between the documents are illustrated by arrows connecting them.
 
-Use the legend below in conjuction with the FICAM policy map to navigate to your desired information. 
+Click the button below to navigate to the FICAM Policy Matrix Map. 
 
 <p style="text-align:center;">
   <a href="{{site.baseurl}}/university/policymap/" title="Cliick to view the FICAM Policy Matrix Map" class="usa-button" type="button">
