@@ -116,14 +116,12 @@ Use the legend below to navigate to your desired FICAM policy map information.
     background-color: rgb(204, 229, 255);
     font-size:10 pt;
     text-align:center;
-  }
   } 
-  #gvbtag {
+  #gbtag {
     background-color: rgb(181, 159, 205);
     font-size:10 pt;
     text-align:center;
   }
-  } 
   #tstag {
     background-color: rgb(216, 216, 216);
     font-size:10 pt;
@@ -147,7 +145,7 @@ Use the legend below to navigate to your desired FICAM policy map information.
     <th id="aoctag" scope="row">Congress</th>
     <td id="eotag">White House</td>
     <td id="fptag">OMB/DNI/OPM</td> 
-    <td id="gvbtag">GSA/CIO Council/ICAMSC/FPKIPA</td>
+    <td id="gbtag">GSA/CIO Council/ICAMSC/FPKIPA</td>
     <td id="tstag">NIST/ISC/NSA/FedRAMP</td>
   </tr>
 </tbody>
