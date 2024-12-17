@@ -134,8 +134,9 @@ The FICAM policy map presents a visual overview of the laws, policies and standa
 Click the button below to navigate to the FICAM Policy Matrix Map. 
 
 <p style="text-align:center;">
+<br>
   <a href="{{site.baseurl}}/university/policymap/" title="Cliick to view the FICAM Policy Matrix Map" class="usa-button" type="button">
-     Click to view the FICAM Policy Matrix Map <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_forward"></use></svg>
+     View the FICAM Policy Matrix Map <svg class="usa-icon" aria-hidden="true" focusable="false" role="img"><use xlink:href="{{site.baseurl}}/assets/img/sprite.svg#arrow_forward"></use></svg>
   </a>
 </p>
 
