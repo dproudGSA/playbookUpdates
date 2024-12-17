@@ -146,7 +146,7 @@ Use the legend below to navigate to your desired FICAM policy map information.
   <tr>
     <th id="aoctag" scope="row">Congress</th>
     <td id="eotag">White House</td>
-    <td id="fptag">OMB/DNI/OPM</td>
+    <td id="fptag">OMB/DNI/OPM</td> 
     <td id="gbtag">GSA/CIO Council/ICAMSC/FPKIPA</td>
     <td id="tstag">NIST/ISC/NSA/FedRAMP</td>
   </tr>
