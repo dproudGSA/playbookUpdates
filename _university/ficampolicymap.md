@@ -1091,7 +1091,7 @@ sticky_sidenav: true
       </g>
       <g id="Key:_Federal_Policy_Area" data-name="Key: Federal Policy Area">
         <g id="eorect-25" data-name="eorect">
-          <rect x="605.97" y="77.75" width="244.31" height="27.54" style="fill: #b1ddf0;"/>
+          <rect x="605.97" y="77.75" width="244.31" height="27.54" style="fill: #cce5ff;"/>
           <path d="M849.9,78.12v26.79h-243.56v-26.79h243.56M850.65,77.37h-245.06v28.29h245.06v-28.29h0Z"/>
         </g>
         <text id="produced_by" data-name="produced by" transform="translate(653.14 94.8) scale(1.3 1)" style="font-family: ArialMT, Arial; font-size: 9.08px;"><tspan x="0" y="0">Produced by OMB/DNI/OPM</tspan></text>
@@ -1120,7 +1120,7 @@ sticky_sidenav: true
       <g id="Key:_Federal_Policy" data-name="Key: Federal Policy">
         <rect id="gbrect-86" data-name="gbrect" x="605.59" y="33.43" width="245.06" height="40.95"/>
         <g id="eorect-26" data-name="eorect">
-          <rect x="605.97" y="33.72" width="244.31" height="40.28" style="fill: #cce5ff;"/>
+          <rect x="605.97" y="33.72" width="244.31" height="40.28" style="fill: #b1ddf0;"/>
           <path d="M849.9,34.09v39.53h-243.56v-39.53h243.56M850.65,33.34h-245.06v41.03h245.06v-41.03h0Z"/>
         </g>
         <text id="Federal_Policy" data-name="Federal Policy" transform="translate(686.79 58.78) scale(.89 1)" style="font-family: Arial-BoldMT, Arial; font-size: 13.63px; font-weight: 700;"><tspan x="0" y="0">Federal Policy</tspan></text>
