@@ -113,7 +113,7 @@ Laws, executive policies, regulations, and government standards drive multiple f
     text-align:center;
   }
   #fptag {
-    background-color: rgb(204, 229, 255);
+    background-color:rgb(204, 229, 255);
     font-size:10 pt;
     text-align:center;
   } 
