@@ -69,7 +69,7 @@ sticky_sidenav: true
       /* OMB and OPM Buttons */
       .fpbutton {
         /* fill: rgb(204, 229, 255); */
-        fill: #B5CBE2;
+        fill: #C0D7F0;
         stroke: #000;
         stroke-miterlimit: 10;
         letter-spacing: .03em;
@@ -1091,7 +1091,7 @@ sticky_sidenav: true
       </g>
       <g id="Key:_Federal_Policy_Area" data-name="Key: Federal Policy Area">
         <g id="eorect-25" data-name="eorect">
-          <rect x="605.97" y="77.75" width="244.31" height="27.54" style="fill: #B5CBE2;"/>
+          <rect x="605.97" y="77.75" width="244.31" height="27.54" style="fill: #C0D7F0;"/>
           <path d="M849.9,78.12v26.79h-243.56v-26.79h243.56M850.65,77.37h-245.06v28.29h245.06v-28.29h0Z"/>
         </g>
         <text id="produced_by" data-name="produced by" transform="translate(653.14 94.8) scale(1.3 1)" style="font-family: ArialMT, Arial; font-size: 9.08px;"><tspan x="0" y="0">Produced by OMB/DNI/OPM</tspan></text>
