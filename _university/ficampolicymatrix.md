@@ -420,7 +420,7 @@ This table lists Technical Guidance published under ICAM. They provide technical
 
 ## Upcoming Documents and Revisions
 
-Periodically, documents in this matrix will be updated, or new documents may be created that belong in the matrix. The list below provides links to the draft documents. The matrix will be updated when the following documents are finalized and published. 
+Some of the documents referenced in this matrix are managed by other agencies and organizations. The matrix is updated on an annual basis. The table below provides links to documents that have been updated or are in the process of being updated. The references in the matrix above will be updated at the next regular update. 
 
 *Please return to this section often to ensure you are accessing the most up-to-date information.*    
 
