@@ -121,9 +121,9 @@ sticky_sidenav: true
       <text transform="translate(46.16 319.03)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">Act of Congress</tspan></text>
     </g>
     <g id="OMB_and_OPM_Panels" data-name="OMB and OPM Panels">
-      <rect id="OMB_Panel" data-name="OMB Panel" x="37" y="344.8" width="1391" height="161.38" style="fill: #b1ddf0;"/>
+      <rect id="OMB_Panel" data-name="OMB Panel" x="37" y="344.8" width="1391" height="161.38" style="fill: #cce5ff;"/>
       <g id="OPM_Panel" data-name="OPM Panel">
-        <rect x="1196.71" y="344.85" width="231.29" height="271.04" style="fill: #b1ddf0;"/>
+        <rect x="1196.71" y="344.85" width="231.29" height="271.04" style="fill: #cce5ff;"/>
       </g>
       <text transform="translate(47.37 498.82)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">OMB Circulars and Memoranda</tspan></text>
       <text transform="translate(1206.13 608.78)" style="font-family: Arial-BoldMT, Arial; font-size: 12px; font-weight: 700;"><tspan x="0" y="0">OPM Memoranda</tspan></text>
@@ -1119,7 +1119,7 @@ sticky_sidenav: true
       <g id="Key:_Federal_Policy" data-name="Key: Federal Policy">
         <rect id="gbrect-86" data-name="gbrect" x="605.59" y="33.43" width="245.06" height="40.95"/>
         <g id="eorect-26" data-name="eorect">
-          <rect x="605.97" y="33.72" width="244.31" height="40.28" style="fill: #b1ddf0;"/>
+          <rect x="605.97" y="33.72" width="244.31" height="40.28" style="fill: #cce5ff;"/>
           <path d="M849.9,34.09v39.53h-243.56v-39.53h243.56M850.65,33.34h-245.06v41.03h245.06v-41.03h0Z"/>
         </g>
         <text id="Federal_Policy" data-name="Federal Policy" transform="translate(686.79 58.78) scale(.89 1)" style="font-family: Arial-BoldMT, Arial; font-size: 13.63px; font-weight: 700;"><tspan x="0" y="0">Federal Policy</tspan></text>
