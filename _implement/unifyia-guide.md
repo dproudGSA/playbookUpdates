@@ -207,6 +207,11 @@ Topics covered within this implementation guide are
 
 <p align="justify">FIDO2 passkeys and Derived FIDO2 Credentials DFCs are crucial in modernizing government and enterprise security by leveraging cryptographic keys for passwordless and phishing-resistant authentication. FIDO2 compatibility across major platforms including Windows, Android, iOS, macOS, and browsers, including Google Chrome, Mozilla Firefox, Microsoft Edge, and Apple Safari, makes it a robust solution for enhancing security and user experience in digital authentication.</p>
 
+<p align="justify">We extend our sincere gratitude to our collaboration partners: the Department of Energy's Sandia National Laboratories and Lawrence Livermore National Laboratory, whose comprehensive technical review and expertise significantly enhanced the quality and reliability of this implementation guide. We also thank the U.S. Department of Health and Human Services for their valuable contributions. Their collective expertise and dedication to advancing federal cybersecurity standards have been invaluable in creating this comprehensive framework for passkey implementation.
+</p>
+
+<h2>Executive Summary</h2>
+
 <!-- Start of Section 2 -->
 
 ## Scope
