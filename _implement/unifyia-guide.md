@@ -85,7 +85,7 @@ subnav:
     }
     .logo.large {
         max-width: 256px;
-        max-height: 64px;
+        max-height: 256px;
     }
     .logo-container {
         display: flex;
