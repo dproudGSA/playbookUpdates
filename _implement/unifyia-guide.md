@@ -72,39 +72,15 @@ subnav:
     href: "#glossary"
 ---
 <!-- Start of Header -->
-<style>
-    .logo {
-        height: auto;
-        width: auto;
-        object-fit: contain;
-        margin-right: 1rem;
-    }
-    .logo.small {
-        max-width: 64px;
-        max-height: 64px;
-    }
-    .logo.large {
-        max-width: 256px;
-        max-height: 256px;
-    }
-    .logo-container {
-        display: flex;
-        align-items: center;
-        margin-bottom: 1rem;
-    }
-</style>
-
-<header class="organization-logos">
-    <div class="logo-container">
-        <img src="{{site.baseurl}}/assets/img/logo-gsa.png" class="logo small" alt="U.S. General Services Administration Logo">
-        <img src="{{site.baseurl}}/assets/img/logo-doe.png" class="logo large" alt="U.S. Department of Energy Logo">
-    </div>
-    <div class="logo-container">
-        <img src="{{site.baseurl}}/assets/img/logo-sandia.png" class="logo large" alt="Sandia National Laboratories Logo">
-        <img src="{{site.baseurl}}/assets/img/logo-lawrence.png" class="logo large" alt="Lawrence Livermore National Laboratory Logo">
-        <img src="{{site.baseurl}}/assets/img/logo-hhs.png" class="logo small" alt="U.S. Department of Health and Human Services Logo">
-    </div>
-</header>
+<div style="margin-bottom: 20px;">
+    <img src="{{site.baseurl}}/assets/img/logo-gsa.png" style="height: 64px; margin-right: 20px;" alt="U.S. General Services Administration Logo">
+    <img src="{{site.baseurl}}/assets/img/logo-doe.png" style="height: 64px; margin-right: 20px;" alt="U.S. Department of Energy Logo">
+</div>
+<div style="margin-bottom: 20px;">
+    <img src="{{site.baseurl}}/assets/img/logo-sandia.png" style="height: 64px; margin-right: 20px;" alt="Sandia National Laboratories Logo">
+    <img src="{{site.baseurl}}/assets/img/logo-lawrence.png" style="height: 64px; margin-right: 20px;" alt="Lawrence Livermore National Laboratory Logo">
+    <img src="{{site.baseurl}}/assets/img/logo-hhs.png" style="height: 64px;" alt="U.S. Department of Health and Human Services Logo">
+</div>
   
 <div class="usa-accordion usa-accordion--bordered">
   <h4 class="usa-accordion__heading">
