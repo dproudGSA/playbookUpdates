@@ -727,7 +727,7 @@
     The Enterprise Single Sign-On (SSO) Playbook is a practical guide to help federal agencies 
     implement or modernize an SSO service for federal employee access to government applications.
   published: 2021-02-12
-  externalURL: "https://playbooks.idmanagement.gov/playbooks/sso/"
+  externalURL: "https://www.idmanagement.gov/playbooks/sso/"
   authored-by:
     - *ICAMSC
     - *GSA
@@ -744,7 +744,7 @@
     several federal agencies, developed this ICAM Governance Framework as a tool to help
     agencies build and improve ICAM governance structures, processes, and policies.
   published: 2021-09-01
-  externalURL: "https://playbooks.idmanagement.gov/docs/playbook-identity-governance-framework.pdf"
+  externalURL: "https://www.idmanagement.gov/docs/playbook-identity-governance-framework.pdf"
   authored-by:
     - *ICAMSC
   ficam-services:
@@ -789,6 +789,7 @@
     technologies to enhance public safety mission capabilities by using standards-based
     commercially available or open-source products.
   published: 2021-08-25
+  externalURL: "https://csrc.nist.gov/pubs/sp/1800/13/final"
   authored-by:
     - *NIST
   ficam-services:
@@ -960,6 +961,7 @@
   description: >-
     This document specifies the profiles for X.509 certificates and certificate revocation lists (CRLs) 
     associated with CAs cross-certified with the Federal Bridge Certification Authority (FBCA).
+  externalURL: "https://www.idmanagement.gov/docs/fpki-x509-cert-profiles-fbca.pdf"
   published: 2022-10-18
   authored-by:
     - *FPKIPA
@@ -975,6 +977,7 @@
     Certificate Policy for the U.S. Federal PKI Common Policy Framework [COMMON] 
     and that have a trust path to the Federal Common Policy CA operated by the Federal PKI 
     Management Authority.
+  externalURL: "https://www.idmanagement.gov/docs/fpki-x509-cert-profile-common.pdf"
   published: 2022-09-30
   authored-by:
     - *FPKIPA
@@ -1191,6 +1194,7 @@
     executed at various phases of the system development life cycle, are consistent with the security and 
     privacy controls in NIST Special Publication 800-53, Revision 5.
   published: 2022-01-25
+  externalURL: "https://csrc.nist.gov/pubs/sp/800/53/a/r5/final"
   authored-by:
     - *NIST
   authorized-by:
@@ -1636,7 +1640,7 @@
     the practical guidelines, users can reduce their risk exposure and become harder targets for 
     malicious threat actors.
   published: 2020-10-01
-  externalURL: "https://media.defense.gov/2020/Sep/22/2002502665/-1/-1/0/CSI_MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF"
+  externalURL: "https://media.defense.gov/2024/Jul/31/2003515137/-1/-1/0/MULTIFACTOR_AUTHENTICATION_SOLUTIONS_UOO17091520.PDF"
   authored-by:
     - *DOD
   authorized-by:
@@ -1725,7 +1729,7 @@
   longName: "Cloud Identity Playbook"
   description: "This Cloud Identity Playbook is a practical guide to assist federal agencies as they start to or further expand the use of workforce Identity, Credential, and Access Management (ICAM) services in a cloud operating model."
   published: 2022-12-29
-  externalURL: "https://playbooks.idmanagement.gov/playbooks/cloud/"
+  externalURL: "https://www.idmanagement.gov/playbooks/cloud/"
   authored-by:
     - *ICAMSC
     - *GSA
@@ -1743,7 +1747,7 @@
   longName: "Digital Identity Risk Assessment Playbook"
   description: "This Digital Identity Risk Assessment playbook helps federal agency Chief Information Officer (CIO) and Chief Information Security Officer (CISO) teams and business application owners to update and maintain consistent processes; determine whether an agency application requires a DIRA; integrate DIRA into agency Risk Management Framework (RMF) processes; and learn practices to implement DIRA processes."
   published: 2022-12-29
-  externalURL: "https://playbooks.idmanagement.gov/playbooks/dira/"
+  externalURL: "https://www.idmanagement.gov/playbooks/dira/"
   authored-by:
     - *ICAMSC
     - *GSA
