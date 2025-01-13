@@ -356,6 +356,11 @@
   .tablet\:float-left {
     float: left;
   }
+
+  .gsa-mobile {
+    display: none;
+  }
+
 }
 
 @media screen and (min-width: 640px) {
@@ -365,6 +370,11 @@
   .paginate-button {
     display: none;
   }
+
+  .gsa-mobile {
+    display: none;
+  }
+
 }
 
 @media screen and (max-width: 640px) {
@@ -374,6 +384,11 @@
   .paginate-button {
     display: block;
   }
+
+  .gsa-mobile {
+    display: none;
+  }
+
 }
 
 @media (max-width: 640px) {
@@ -395,4 +410,10 @@
   .usa-button {
     font-size: 0.9rem;
   }
+
+  // attempt to fix mobile after update of uswds 3.11.0
+  .gsa-mobile {
+    display: none;
+  }
+
 }
