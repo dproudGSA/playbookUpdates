@@ -170,7 +170,7 @@ collections:
   redirects:
     output: true
     permalink: /redirects/:path/
-  exp:
+  experiment:
     output: true
     permalink: /experiment/:path/
 
