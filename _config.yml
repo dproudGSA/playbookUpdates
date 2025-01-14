@@ -114,6 +114,8 @@ primary_navigation:
         url: /university/pm/
       - name: ICAM Policy Matrix
         url: /university/policymatrix/
+  - name: Experiment 
+    url: /experiment/
 
 secondary_navigation:
   - name: Contact Us
@@ -168,6 +170,9 @@ collections:
   redirects:
     output: true
     permalink: /redirects/:path/
+  exp:
+    output: true
+    permalink: /experiment/:path/
 
 # Leaving in place: 
 # Unsure of placement in new site.
