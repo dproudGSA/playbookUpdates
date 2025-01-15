@@ -94,8 +94,10 @@ primary_navigation:
         url: /fips201ep/
       - name: GSA PKI SSP Program
         url: /gsapkissp/
+
   - name: Playbooks
     url: /playbooks/
+
   - name: University
     children: 
       - name: Introduction
@@ -114,8 +116,9 @@ primary_navigation:
         url: /university/pm/
       - name: ICAM Policy Matrix
         url: /university/policymatrix/
-  - name: Experiment 
-    url: /experiment/
+
+  - name: Experiments 
+    url: /experiments/
 
 secondary_navigation:
   - name: Contact Us
@@ -170,9 +173,9 @@ collections:
   redirects:
     output: true
     permalink: /redirects/:path/
-  experiment:
+  experiments:
     output: true
-    permalink: /experiment/:path/
+    permalink: /experiments/:path/
 
 # Leaving in place: 
 # Unsure of placement in new site.
